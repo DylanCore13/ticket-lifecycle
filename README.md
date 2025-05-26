@@ -33,8 +33,59 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   User Ken creates a ticket due to him having a problem with an issue of a website/application/service. He'll have to describe whats wrong and label the serverity of the problem.
 </p>
 
-![image](https://github.com/user-attachments/assets/a4edfbc9-3a87-4de1-8528-cdb814110e5c)
 
+<p align="center">
+<img src="https://i.imgur.com/G7Ak6uI.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/UdiPc1s.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
+
+
+<h3>Step 2: Assignment and Communication</h3>
+
+- Sign in to osTicket as an Agent
+  - We created jane.doe in the previous tutorial; log in with those credentials. 
+  - Select the ticket we created in Step 1.
+  
+  
+<p align="center">
+<img src="https://i.imgur.com/sDgzS36.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+
+ - Priority: Emergency. 
+      - Mobile online banking down can lead to losses in revenue for the company. 
+ - Assigned to: Jane Doe
+ - SLA Plan: SEV-A 
+      - Business impacting, critical incident
+ - Department: System Administrators 
+      - Sys Admins responsible for mobile banking infrastructure
+ - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
+    - Select Post Reply
+
+
+<p align="center">
+<img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
+</p>
+
+<h3>Stage 3: Working the Issue</h3>
+
+- On the back end, Jane is working with the Systems Administrative Team to resolve the issue. 
+
+
+<h3>Stage 4: Resolution</h3>
+     
+- Once the issue is resolved, head back to the ticket and update the end user.
+  - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
+  - Ticket Status: Resolved
+- Select Post Reply
+- Since it has been resolved, the ticket should now be on the Closed tab.
+
+<p align="center">
+<img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
+</p>
+
+
+🎉Congratulations! You have created and resolved your first ticket! You have completed the third and final part of this three-part osTicket Install/Configuration/Ticket-Creation tutorial series.🎉
+  
 
 
 
@@ -42,11 +93,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Agent John Doe logs in and sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
   He also makes sure to leave a proper message:
 </p>
-<p>
-  <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
-</p>
-<br />
-<br />
+
+![image](https://github.com/user-attachments/assets/a4edfbc9-3a87-4de1-8528-cdb814110e5c)
 
 <br />
 <p>
