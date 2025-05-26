@@ -29,8 +29,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 
-<h3 align="center">Intake</h3>
+
 <br />
+
+
 <p>
   User Ken creates a ticket:
 </p>
