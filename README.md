@@ -39,22 +39,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 
-<br />
-<p>
-  Support agent John Doe logs in.
-</p>
-<p>
-  <img src="https://i.imgur.com/i3sa7FH.jpg" height="75%" width="100%" alt="Support agent login"/>
-</p>
-<br />
-<br />
 
-<br />
 <p>
-  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
-</p>
-<p>
-  He makes sure to leave a proper message:
+  Agent John Doe logs in and sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+  He also makes sure to leave a proper message:
 </p>
 <p>
   <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
