@@ -32,11 +32,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   User Ken creates a ticket due to him having a problem with an issue of a website/application/service. He'll have to describe whats wrong and label the serverity of the problem.
 </p>
-<p>
-  <img src="https://i.imgur.com/ewueu9b.png: height="75%" width="100%" alt="Open a Ticket"/>
-</p>
-<br />
-<br />
+
+![image](https://github.com/user-attachments/assets/a4edfbc9-3a87-4de1-8528-cdb814110e5c)
+
 
 
 
