@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-  User Karen creates a ticket due to him having a problem with an issue of a website/application/service. He'll have to describe whats wrong and label the serverity of the problem.
+  User Karen creates a ticket due to her having a problem with an issue of a website/application/service. She'll have to describe whats wrong and label the serverity of the problem.
 </p>
 
 
@@ -39,11 +39,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 
-<h3>Step 2: Assignment and Communication</h3>
 
-- Sign in to osTicket as an Agent
-  - We created jane.doe in the previous tutorial; log in with those credentials. 
-  - Select the ticket we created in Step 1.
+- Sign in to osTicket as an Agent, remember we created jane.doe in the previous tutorial; log in with those credentials
+   
+  Select the ticket we created with Karen.
   
   
 <p align="center">
@@ -52,7 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
  - Priority: Emergency. 
-      - Mobile online banking down can lead to losses in revenue for the company. 
+      - Mobile online banking down can lead to losses in revenue for the company or worse. 
  - Assigned to: Jane Doe
  - SLA Plan: SEV-A 
       - Business impacting, critical incident
@@ -66,12 +65,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
-<h3>Stage 3: Working the Issue</h3>
 
 - On the back end, Jane is working with the Systems Administrative Team to resolve the issue. 
 
 
-<h3>Stage 4: Resolution</h3>
      
 - Once the issue is resolved, head back to the ticket and update the end user.
   - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
