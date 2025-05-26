@@ -37,8 +37,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <br />
-<h3 align="center">Ticket assignment</h3>
-
 
 
 <br />
@@ -50,7 +48,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <br />
-<h3 align="center">Communication</h3>
+
 <br />
 <p>
   Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
@@ -63,7 +61,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <br />
-<h3 align="center">Working the issue</h3>
+
 <br />
 <p>
   System Administrator agent Jane Doe logs in:
@@ -82,7 +80,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 <br />
-<h3 align="center">Resolution</h3>
+
 <br />
 <p>
   Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
