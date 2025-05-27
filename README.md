@@ -51,7 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
  - The priority here is an EMERGENCY, since mobile online banking down this can lead to losses in revenue for the company or possibly worse. 
- - This was assigned to agent "Jane Doe"
+ - This was assigned to agent "John Doe"
  - SLA Plan: SEV-A !!!
       - Business impacting, major critical incident
  - Department: System Administrators 
@@ -60,9 +60,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - Select Post Reply
 
 
-<p align="center">
-<img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
-</p>
+![image](https://github.com/user-attachments/assets/73ed1ff9-54f1-44b2-93c9-3e4523b13175)
+
 
 
 - On the back end, Jane is working with the Systems Administrative Team to resolve the issue. 
