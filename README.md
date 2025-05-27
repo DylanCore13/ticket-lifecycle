@@ -50,11 +50,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 
- - Priority: Emergency. 
-      - Mobile online banking down can lead to losses in revenue for the company or worse. 
- - Assigned to: Jane Doe
- - SLA Plan: SEV-A 
-      - Business impacting, critical incident
+ - The priority here is an EMERGENCY, since mobile online banking down this can lead to losses in revenue for the company or possibly worse. 
+ - This was assigned to agent "Jane Doe"
+ - SLA Plan: SEV-A !!!
+      - Business impacting, major critical incident
  - Department: System Administrators 
       - Sys Admins responsible for mobile banking infrastructure
  - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
