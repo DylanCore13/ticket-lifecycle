@@ -74,9 +74,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Select Post Reply
 - Since it has been resolved, the ticket should now be on the Closed tab.
 
-<p align="center">
-<img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
-</p>
+![image](https://github.com/user-attachments/assets/087ee6f4-3dcf-406a-9106-b68f8d1f4f6e)
+
+
+![image](https://github.com/user-attachments/assets/35205278-83df-41cc-b7f4-9e04674c76f2)
 
 
 
