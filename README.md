@@ -64,12 +64,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-- On the back end, Jane is working with the Systems Administrative Team to resolve the issue. 
+- On the back end, John is working with the Systems Administrative Team to resolve the issue. 
 
 
      
 - Once the issue is resolved, head back to the ticket and update the end user.
-  - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
+  - Response text box: DylCor from System Networking found and connected a failed load balancer. Mobile banking should be back up. 
   - Ticket Status: Resolved
 - Select Post Reply
 - Since it has been resolved, the ticket should now be on the Closed tab.
