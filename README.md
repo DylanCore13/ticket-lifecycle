@@ -45,9 +45,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Select the ticket we created with Karen.
   
   
-<p align="center">
-<img src="https://i.imgur.com/sDgzS36.png" height="80%" width="80%" alt="Azure Free Account"/> 
-</p>
+
+ ![image](https://github.com/user-attachments/assets/48cd3a80-92b9-4e4b-9c4f-ed5e4359710f)
+
 
 
  - The priority here is an EMERGENCY, since mobile online banking down this can lead to losses in revenue for the company or possibly worse. 
